@@ -1,4 +1,4 @@
-
+"Исследование применимости новых типов одноэлементных тензорезистивных структур для создания сенсоров давления"
 June 2006, NSTU, Novosibirsk
 Thesis for: MSc.
 Advisor: Prof. Victor A. Gridchin
