@@ -3,4 +3,4 @@ Modeling of the Temperature Dependence of Polycrystalline-Si Conductivity in TCA
 October 2018
 DOI: 10.1109/APEIE.2018.8545585
 Conference: 2018 XIV International Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE)
-Vladislava I. SaburovaGennady N. KamaevAleksey S. CherkaevV.A. GridchinV.A. Gridchin
+Vladislava I. Saburova, Gennady N. Kamaev, Aleksey S. Cherkaev, V.A. Gridchin
