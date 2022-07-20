@@ -6,4 +6,4 @@ In Memoriam:
 
     Макаров Евгений Афанасьевич 13.04.1939-24.01.2020 (55.10135292, 82.87224146)
 
-    Aleksandr Gorodeckij
+    [Aleksandr Gorodeckij](http://bookzooka.com/book/181-lyudi-izmenivshie-mir-yetyudy-ob-uchenyx-i-o-nauke-moldaver-ti/17-aleksandr-gorodeckij-1910-1968.html)
