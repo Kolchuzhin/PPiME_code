@@ -4,7 +4,7 @@
 
 # Personalities
 ## [Shadrin](https://github.com/Kolchuzhin/PPiME_code/tree/main/Shadrin)
-## [Gridchin](https://github.com/Kolchuzhin/PPiME_code/edit/main/Gridchin)
+## [Gridchin](https://github.com/Kolchuzhin/PPiME_code/tree/main/Gridchin)
 ## [Makarov](https://github.com/Kolchuzhin/PPiME_code/tree/main/Makarov)
 ## [Usoltsev](https://github.com/Kolchuzhin/PPiME_code/tree/main/Usoltsev)
 
