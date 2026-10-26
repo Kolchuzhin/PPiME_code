@@ -1,5 +1,9 @@
 #
 
+## Problem definition
+
+![Problem definition](https://ieeexplore.ieee.org/mediastore/IEEE/content/media/7795275/7802173/7802182/7802182-fig-2a-source-large.gif)
+
 ## Optimal factor
 
 ![initial_gap_in_comb_drive](https://github.com/Kolchuzhin/PPiME_code/blob/main/projects/an_optimization_of_initial_gap_in_electrostatic_comb_drive/initial_gap_in_comb_drive.png)
